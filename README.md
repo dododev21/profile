@@ -1,11 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=F7DF1E&width=435&lines=Welcome+to+GitHub+of+Front-end+Developer+" alt="Typing SVG" /></a>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=F7DF1E&width=435&lines=Welcome+to+GitHub+of+Front-end+Developer+" alt="Typing SVG" /></a>-->
 
 <h2> Hello! 👋,&nbsp I'm a Full-Stack Developer DOJIN</h2>
 
 <h1>🔧 Skills</h1>
 Frontend : React, Next.js, Vue3, TypeScript, JavaScript, Github, Git<br>
+Backend : Java, Spring Boot, Python, jupyter notebook, Node.js, Axios, RESTful API, MySQL<br>
 State Management :  Zustand, Redux<br>
-Backend : Java, Spring Boot, Python, Node.js, Axios, RESTful API, MySQL<br>
 Styling :  SCSS, Styled-Components, Tailwind CSS<br>
 Other Tools :  Figma, adobeXD<br>
 
